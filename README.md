@@ -24,7 +24,7 @@ Synthetic hospital dataset containing 1,000+ patient records.
 ✔ Implement follow-up programs for chronic disease patients.
 ✔ Enhance treatment plans in high-risk hospital departments.
 
-📍** Final Deliverables:**
+📍Final Deliverables:
 ✅ Power BI Dashboard (Screenshots Attached)
 ✅ Excel Analysis (Pivot Tables, Charts)
 
