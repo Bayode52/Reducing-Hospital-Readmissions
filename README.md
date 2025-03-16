@@ -17,7 +17,7 @@ Synthetic hospital dataset containing 1,000+ patient records.
 📌 High-Risk Age Group: 46 - 60 years
 📌 Highest Readmission Diagnosis: Heart Disease
 📌 Hospital Department with Most Readmissions: Cardiology
-📌 Follow-up Effectiveness: Patients with follow-ups had was
+📌 Follow-up Effectiveness: Patients with follow-ups had 3.4% lower admission rate compared to those who didn't.This suggests follow ups can help prevent unnecessary hospital readmissions.
 
 📍 **Recommendations:**
 ✔ Improve post-discharge care for high-risk age groups.
